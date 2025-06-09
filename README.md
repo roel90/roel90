@@ -1,7 +1,7 @@
 # 👋 About Me
 
 Hi, I'm **Renee Oelrich**, a passionate and experienced **IT System Engineer** based near Zurich, Switzerland.  
-With over a decade of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures for **mid-sized businesses (KMUs)**—especially those in regulated sectors like healthcare.
+With over a decade of hands-on experience, I specialize in designing, implementing, and managing robust IT infrastructures for **mid-sized businesses (KMUs)
 
 I began my IT journey in Germany, working with small and medium-sized businesses in the medical field.  
 Today, I advise and support larger KMUs in the Zurich area with tailored IT solutions that enable **secure, modern, and efficient collaboration**.
